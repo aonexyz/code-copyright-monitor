@@ -12,7 +12,7 @@ This repository automatically checks if your unique code signature appears in ot
 
 ### 1. Clone this repo
 ```bash
-git clone https://github.com/yourusername/code-copyright-monitor
+git clone https://github.com/aonexyz/code-copyright-monitor
 cd code-copyright-monitor
 ```
 ### 2. Edit monitor.py and put your unique code keywords
